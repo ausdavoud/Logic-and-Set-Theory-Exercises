@@ -51,4 +51,10 @@ The included `.latexmkrc` selects XeLaTeX, keeps auxiliary files in `out/`, and 
 
 ## Group
 
-Mohammad Mallaee, Davoud Nosrati Amirabadi, Hosna Soltanolkottabi, Farzaneh Salimi and Yeganeh Rastegari, for Dr. Meghdad Ghari's course at the Faculty of Mathematics and Statistics, University of Isfahan.
+- Mohammad Mallaee &nbsp;[@mohammad-mallaee](https://github.com/mohammad-mallaee)
+- Davoud Nosrati Amirabadi &nbsp;[@ausdavoud](https://github.com/ausdavoud)
+- Hosna Soltanolkottabi &nbsp;[@HosnaSltn](https://github.com/HosnaSltn)
+- Farzaneh Salimi
+- Yeganeh Rastegari
+
+For Dr. Meghdad Ghari's course at the Faculty of Mathematics and Statistics, University of Isfahan.
