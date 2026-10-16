@@ -1,0 +1,5 @@
+out/
+*.synctex.gz
+sections/**/*.pdf
+.DS_Store
+.vscode/
